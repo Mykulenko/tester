@@ -12,3 +12,16 @@ p {
 a{
     color: darkgreen;
 }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS external</title>
+    <link rel="stylesheet" href="example.css">
+</head>
+<body>
+<h2><i>This is my example</i></h2>
+<p><b>I try to use CSS external</b></p>
+<a href="index.html">Read the text</a>
+
+</body>
+</html>
